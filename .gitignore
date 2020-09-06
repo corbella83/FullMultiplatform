@@ -1,0 +1,5 @@
+.gradle
+androidApp/build
+build
+local.properties
+iosApp/iosApp.xcodeproj/xcuserdata
