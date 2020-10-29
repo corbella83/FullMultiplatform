@@ -14,7 +14,7 @@ internal class KtorApiDataSource(
 ) : ApiDataSource {
 
     override suspend fun getIpInfo() =
-        client.get<String>("http://ip-api.com/json")
+        client.get<String>("https://www.google.com/json")
             .let { json.decodeFromString(IpInfoDTO.serializer(), it) }
 
 
