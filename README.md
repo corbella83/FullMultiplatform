@@ -1,4 +1,4 @@
-PopKorn - Full Multiplatform Project
+Full Multiplatform Project
 ==========
 
 
