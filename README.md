@@ -8,19 +8,19 @@ I've made a very simple application with 1 screen, 1 presenter, 4 usecases, 1 re
 
 ---
 
-Architecture: MVP, as it fits best the purpose of multiplatform.
+**Architecture**: MVP
 
-Kotlin: Version 1.4.0
+**Kotlin**: Version 1.4.21
 
-Gradle: Version 6.6 with Kotlin DSL (kts files)
+**Gradle**: Version 6.8 with Kotlin DSL (kts files)
 
-Dependency Injection: PopKorn 2.0.0 ([link][1])
+**Dependency Injection**: PopKorn 2.1.0 ([link][1])
 
-Serialization: Kotlinx Serialization 1.0.0-RC ([link][2])
+**Serialization**: Kotlinx Serialization 1.0.1 ([link][2])
 
-Coroutines: Version 1.3.7 ([link][3])
+**Coroutines**: Version 1.4.2-native-mt ([link][3])
 
-Connections: KTor 1.4.0 ([link][4])
+**Connections**: KTor 1.5.0 ([link][4])
 
 ---
 
